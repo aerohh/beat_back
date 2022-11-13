@@ -1,0 +1,243 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "mobileNumber": "F",
+      "password": "f",
+      "terms_conditions": true,
+      "firstName": "F",
+      "lastName": "F",
+      "dob": 1667913130000,
+      "gender": "Male",
+      "martialStatus": "Single",
+      "country": "Algeria",
+      "nID": "F",
+      "city": "F",
+      "favDrs": []
+    },
+    {
+      "id": 2,
+      "mobileNumber": "F",
+      "password": "f",
+      "terms_conditions": true,
+      "firstName": "F",
+      "lastName": "F",
+      "dob": 1667913130000,
+      "gender": "Male",
+      "martialStatus": "Single",
+      "country": "Algeria",
+      "nID": "F",
+      "city": "F",
+      "favDrs": []
+    }
+  ],
+  "paymentCards": [],
+  "reservations": {
+    "upcoming": [
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Upcoming"
+      },
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Upcoming"
+      }
+    ],
+    "completed": [
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Completed"
+      },
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Completed"
+      }
+    ],
+    "cancelled": [
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Cancelled"
+      },
+      {
+        "name": "Dr Ali Samy",
+        "field": "Specialist Dentist",
+        "extraInfoData": [
+          {
+            "Image": "",
+            "desc": "some desc"
+          },
+          {
+            "Image": "",
+            "desc": "some desc"
+          }
+        ],
+        "status": "Cancelled"
+      }
+    ]
+  },
+  "services": [
+    {
+      "desc": "General Surgery"
+    },
+    {
+      "desc": "Ophthalmology"
+    },
+    {
+      "desc": "Cardiac catheterization"
+    },
+    {
+      "desc": "Internal diseases"
+    },
+    {
+      "desc": "Brain and nerves"
+    },
+    {
+      "desc": "Orthopedic"
+    },
+    {
+      "desc": "Dentist"
+    },
+    {
+      "desc": "Ear, nose, throat"
+    },
+    {
+      "desc": "Audiology"
+    },
+    {
+      "desc": "Pediatrics"
+    },
+    {
+      "desc": "Obstetrics"
+    },
+    {
+      "desc": "Dermatology"
+    },
+    {
+      "desc": "Chest diseases"
+    },
+    {
+      "desc": "Natural therapy"
+    },
+    {
+      "desc": "Therapeutic feeding"
+    },
+    {
+      "desc": "Conversational"
+    },
+    {
+      "desc": "Psychology"
+    },
+    {
+      "desc": "Urinary Tract"
+    }
+  ],
+  "doctors": [
+    {
+      "id:": 1,
+      "name": "Dr 1",
+      "field": "",
+      "extraInfoData": [
+        {
+          "imageSource": "",
+          "desc": "desc 1"
+        },
+        {
+          "imageSource": "",
+          "desc": "desc 2"
+        }
+      ],
+      "services": [
+        "General Surgery"
+      ]
+    },
+    {
+      "name": "Dr 2",
+      "field": "",
+      "extraInfoData": [
+        {
+          "imageSource": "",
+          "desc": "desc 1"
+        },
+        {
+          "imageSource": "",
+          "desc": "desc 2"
+        }
+      ],
+      "services": [
+        "General Surgery"
+      ]
+    },
+    {
+      "name": "Dr 3",
+      "field": "",
+      "extraInfoData": [
+        {
+          "imageSource": "",
+          "desc": "desc 1"
+        },
+        {
+          "imageSource": "",
+          "desc": "desc 2"
+        }
+      ],
+      "services": [
+        "Ophthalmology"
+      ]
+    }
+  ]
+}
